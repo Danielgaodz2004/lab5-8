@@ -29,7 +29,7 @@ const manifestForPlugin: Partial<VitePWAOptions> = {
 };
 
 export default defineConfig({
-    base: "/frontend/",
+    base: "/lab5-8/",
     plugins: [
         react(),
         tsconfigPaths(),
